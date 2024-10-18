@@ -1,0 +1,41 @@
+/*
+Name: Lloyd Mbobi
+File: Style1.css
+Date: 18 October 2024
+This is the Lab 3 part 1 css for Web Development - Fundamentals (INFT1206)
+*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h1 {
+    color: palevioletred;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom-style:dotted;
+    border-bottom-color: purple;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  .div {
+    color: lightblue;
+    font-weight: bold;
+  }
+  .ul{
+    border-width: 10px 15px;
+    border-style: solid;
+    color: purple;
+  }
+  #email{
+    color: green;
+  }
+  a:link, a:visited {
+    color: #fb6542;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }

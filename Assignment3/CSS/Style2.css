@@ -1,0 +1,22 @@
+/*
+Name: Lloyd Mbobi
+File: Style2.css
+Date: 18 October 2024
+This is the Lab 3 part 2 css for Web Development - Fundamentals (INFT1206)
+*/
+.pp{
+    margin: 50% 50%;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    
+}
+p{
+    color: white;
+    text-align: center;
+    line-height: 178px;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
